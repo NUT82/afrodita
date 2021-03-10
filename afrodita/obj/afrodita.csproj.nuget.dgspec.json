@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NUT82\\source\\repos\\NUT82\\SoftUni-HomeWorks\\ASP.NET\\afrodita\\afrodita\\afrodita.csproj": {}
+    "C:\\Users\\NUT82\\source\\repos\\NUT82\\afrodita\\afrodita\\afrodita.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NUT82\\source\\repos\\NUT82\\SoftUni-HomeWorks\\ASP.NET\\afrodita\\afrodita\\afrodita.csproj": {
+    "C:\\Users\\NUT82\\source\\repos\\NUT82\\afrodita\\afrodita\\afrodita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NUT82\\source\\repos\\NUT82\\SoftUni-HomeWorks\\ASP.NET\\afrodita\\afrodita\\afrodita.csproj",
+        "projectUniqueName": "C:\\Users\\NUT82\\source\\repos\\NUT82\\afrodita\\afrodita\\afrodita.csproj",
         "projectName": "afrodita",
-        "projectPath": "C:\\Users\\NUT82\\source\\repos\\NUT82\\SoftUni-HomeWorks\\ASP.NET\\afrodita\\afrodita\\afrodita.csproj",
+        "projectPath": "C:\\Users\\NUT82\\source\\repos\\NUT82\\afrodita\\afrodita\\afrodita.csproj",
         "packagesPath": "C:\\Users\\NUT82\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NUT82\\source\\repos\\NUT82\\SoftUni-HomeWorks\\ASP.NET\\afrodita\\afrodita\\obj\\",
+        "outputPath": "C:\\Users\\NUT82\\source\\repos\\NUT82\\afrodita\\afrodita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NUT82\\AppData\\Roaming\\NuGet\\NuGet.Config",

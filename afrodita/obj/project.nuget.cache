@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ANYIblvuSZEJ3rgUE6Aa55qrnrx1yi/1S/f29t02w/FOkefoG+SQBb9kYcz/ZjGfIo2nDNRQ4UTNNH9v1AsosA==",
+  "dgSpecHash": "nBL7NDPvtJ3vU//AOeqHkVDwQ0pPRMI4wK3yD6s7JARK4g03mGBhkql78nZh+NeHKT03NwJdgDGRZs0BI9FJbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NUT82\\source\\repos\\NUT82\\SoftUni-HomeWorks\\ASP.NET\\afrodita\\afrodita\\afrodita.csproj",
+  "projectFilePath": "C:\\Users\\NUT82\\source\\repos\\NUT82\\afrodita\\afrodita\\afrodita.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NUT82\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\NUT82\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.1\\microsoft.aspnetcore.cryptography.internal.5.0.1.nupkg.sha512",

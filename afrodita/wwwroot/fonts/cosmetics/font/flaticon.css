@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 08/03/2021 17:32
+  	Creation date: 09/03/2021 11:07
   	*/
 
 @font-face {
@@ -30,4 +30,9 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-cosmetics:before { content: "\f100"; }
+.flaticon-beauty-treatment:before { content: "\f100"; }
+.flaticon-face-cleanser:before { content: "\f101"; }
+.flaticon-cosmetics:before { content: "\f102"; }
+.flaticon-waxing:before { content: "\f103"; }
+.flaticon-microcurrents:before { content: "\f104"; }
+.flaticon-cellulite:before { content: "\f105"; }
